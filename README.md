@@ -1,6 +1,6 @@
 ### Hello there 👋🌎
 
-- 🔭 I’m currently working on my Masters Theasis about embebed systems security
+- 🔭 I’m currently working on my Master's thesis about embedded systems security
 - 🌱 Learning **Deep Reinforcement Learning** and **Cryptography**
 - 📫 You can find me:
   - [Github](https://www.github.com/FallenFoil/)

@@ -1,6 +1,6 @@
 ### Hello there 👋🌎
 
-![Luis LinkedIn](assets/linkedin.svg)
+![Luis LinkedIn](assets/linkedin.svg =100x20)
 
 - 🔭 I’m currently working on my Master's thesis about embedded systems security
 - 🌱 Learning **Deep Reinforcement Learning** and **Cryptography**

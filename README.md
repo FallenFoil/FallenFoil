@@ -1,5 +1,7 @@
 ### Hello there 👋🌎
 
+![Luis LinkedIn](assets/linkedin.svg)
+
 - 🔭 I’m currently working on my Master's thesis about embedded systems security
 - 🌱 Learning **Deep Reinforcement Learning** and **Cryptography**
 - 📫 You can find me:

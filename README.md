@@ -16,4 +16,4 @@
 - 🔭 I’m currently working on my Master's thesis about embedded systems security
 - 🌱 Learning **Deep Reinforcement Learning** and **Cryptography**
 - ❤️ I enjoy learning new things and messing with electronics
-- ⚡ Fun fact: Copper door knobs are self-disinfecting
+- ⚡ Fun fact: Pigeons can tell the difference between a painting by Monet and Picasso.

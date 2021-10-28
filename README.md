@@ -8,7 +8,7 @@
 </a>
 <a href="https://fallenfoil.github.io/">
   <img align="left" alt="Luis Website" width="20px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/website.svg" />
-</a>(under construction)
+</a>
 
 <br />
 <br />

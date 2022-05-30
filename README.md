@@ -35,45 +35,45 @@
 </p>
 
 <p align="right"><a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
   <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
-    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>
 
 </p>
 
 <p align="left">
   <a href="#">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>

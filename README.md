@@ -19,7 +19,7 @@
 - ❤️ I enjoy learning new things and messing with electronics
 - ⚡ Fun fact: Pigeons can tell the difference between a painting by Monet and Picasso.
 
-<p align="right">
+<p align="left">
   <a href="#">
     <img src="assets/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<p align="right">
+<p align="left">
   <a href="#">
     <img src="assets/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="#">
     <img src="assets/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>

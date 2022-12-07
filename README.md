@@ -19,39 +19,34 @@
 - ❤️ I enjoy learning new things and messing with electronics
 - ⚡ Fun fact: Pigeons can tell the difference between a painting by Monet and Picasso.
 
-<p align="left">
+<p align="right">
+  <a href="#">
+    <img src="assets/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="assets/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="assets/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="assets/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="assets/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>
+  <a href="#">
+    <img src="assets/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>
 </p>
 
-<p align="right"><a href="#">
-    <img src="assets/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
+<p align="right">
   <a href="#">
     <img src="assets/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
-
-
-  <a href="#">
-    <img src="assets/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
   <a href="#">
     <img src="assets/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="assets/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="assets/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
+  </a>
   <a href="#">
     <img src="assets/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -61,7 +56,6 @@
   <a href="#">
     <img src="assets/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>
-
   <a href="#">
     <img src="assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>

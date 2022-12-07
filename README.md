@@ -51,8 +51,9 @@
     <img src="assets/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
-
-<p align="right">
+<br/>
+<br/>
+<p align="left">
   <a href="#">
     <img src="assets/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>

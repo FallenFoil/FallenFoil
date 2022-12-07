@@ -20,17 +20,11 @@
 - ⚡ Fun fact: Pigeons can tell the difference between a painting by Monet and Picasso.
 
 <p align="left">
-   <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  <a href="#">
+    <img src="assets/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -61,11 +55,6 @@
   <a href="#">
     <img src="assets/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
-
-  <a href="#">
-    <img src="assets/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 </p>
 
 <p align="left">

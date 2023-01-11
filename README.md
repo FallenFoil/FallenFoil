@@ -21,38 +21,47 @@
 
 <p align="left">
   <a href="#">
-    <img src="assets/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="assets/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="assets/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="assets/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="assets/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="assets/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
 <p align="left">
   <a href="#">
-    <img src="assets/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
-    <img src="assets/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="assets/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 <br/>
 <br/>
+
+#### Heres a random meme just for you
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="email_me" style="vertical-align:top; margin:6px 4px">

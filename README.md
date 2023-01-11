@@ -1,13 +1,13 @@
 ### Hello there 👋🌎
 
 <a href="mailto:luisjrsm@hotmail.com">
-  <img align="left" alt="Luis email" width="20px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/hotmail.svg" />
+  <img align="left" alt="Luis email" width="20px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lu%C3%ADs-macedo-29315218b/">
-  <img align="left" alt="Luis LinkedIn" width="20px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/linkedin.svg" />
+  <img align="left" alt="Luis LinkedIn" width="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://fallenfoil.github.io/">
-  <img align="left" alt="Luis Website" width="20px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/website.svg" />
+  <img align="left" alt="Luis Website" width="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
 <br />

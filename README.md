@@ -58,11 +58,6 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
-<br/>
-<br/>
-
-#### Heres a random meme just for you
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="email_me" style="vertical-align:top; margin:6px 4px">

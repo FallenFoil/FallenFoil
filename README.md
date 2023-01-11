@@ -14,6 +14,7 @@
 <br />
 
 - 🔭 I’m currently working on my Master's thesis about embedded systems security
+- 💼 Also working as Fullstack at **Accenture Technology Solutions**
 - 🔒 Cybersecurity enthusiast
 - 🌱 Learning **Deep Reinforcement Learning** and **Cryptography**
 - ❤️ I enjoy learning new things and messing with electronics

@@ -53,11 +53,11 @@
 </p>
 <br/>
 <br/>
-<p align="left">
+<!--p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
-</p>
+</p-->
